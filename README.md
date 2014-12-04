@@ -2,6 +2,7 @@ BibTeX files of use to political sociologists
 =======
 
 > *"Imitation is the sincerest of flattery."*
+>
 > ~ Charles Caleb Colton, 1820
 
 This github repository, as much of my work, owes a direct debt of gratitude to [Professor Kieran J. Healy](https://github.com/kjhealy/socbibs#bibtex-files-of-use-to-sociologists) Duke University. Though I have never met him, his public Sociology has offered endless inspiration for my evolution toward Sociological Geekdom.
